@@ -77,5 +77,4 @@ To transform this template into your own:
 
 ---
 
-Let me know if you’d like help customising any section or walking through adding real projects and visuals. Happy to assist!
-::contentReference[oaicite:0]{index=0}
+## ⭐ If you like this project, don’t forget to give it a star on GitHub!
